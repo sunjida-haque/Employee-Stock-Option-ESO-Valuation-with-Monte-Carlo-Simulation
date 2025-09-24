@@ -33,8 +33,8 @@ Model	Value (per option, EUR)
 Monte Carlo	1.092
 Black–Scholes	1.1649
 
-## Volatility is the main driver of ESO value.
+# Volatility is the main driver of ESO value.
 
-## Monte Carlo and Black–Scholes produced consistent valuations, increasing confidence in results.
+# Monte Carlo and Black–Scholes produced consistent valuations, increasing confidence in results.
 
-## Payoff distribution shows high probability of zero payoff but potential upside.
+# Payoff distribution shows high probability of zero payoff but potential upside.
